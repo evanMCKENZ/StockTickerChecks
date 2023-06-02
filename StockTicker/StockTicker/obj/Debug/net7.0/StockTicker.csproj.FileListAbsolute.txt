@@ -1,0 +1,17 @@
+C:\Users\emckenzie\source\repos\StockTicker\StockTicker\bin\Debug\net7.0\StockTicker.exe
+C:\Users\emckenzie\source\repos\StockTicker\StockTicker\bin\Debug\net7.0\StockTicker.deps.json
+C:\Users\emckenzie\source\repos\StockTicker\StockTicker\bin\Debug\net7.0\StockTicker.runtimeconfig.json
+C:\Users\emckenzie\source\repos\StockTicker\StockTicker\bin\Debug\net7.0\StockTicker.dll
+C:\Users\emckenzie\source\repos\StockTicker\StockTicker\bin\Debug\net7.0\StockTicker.pdb
+C:\Users\emckenzie\source\repos\StockTicker\StockTicker\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\emckenzie\source\repos\StockTicker\StockTicker\obj\Debug\net7.0\StockTicker.csproj.AssemblyReference.cache
+C:\Users\emckenzie\source\repos\StockTicker\StockTicker\obj\Debug\net7.0\StockTicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emckenzie\source\repos\StockTicker\StockTicker\obj\Debug\net7.0\StockTicker.AssemblyInfoInputs.cache
+C:\Users\emckenzie\source\repos\StockTicker\StockTicker\obj\Debug\net7.0\StockTicker.AssemblyInfo.cs
+C:\Users\emckenzie\source\repos\StockTicker\StockTicker\obj\Debug\net7.0\StockTicker.csproj.CoreCompileInputs.cache
+C:\Users\emckenzie\source\repos\StockTicker\StockTicker\obj\Debug\net7.0\StockTicker.csproj.CopyComplete
+C:\Users\emckenzie\source\repos\StockTicker\StockTicker\obj\Debug\net7.0\StockTicker.dll
+C:\Users\emckenzie\source\repos\StockTicker\StockTicker\obj\Debug\net7.0\refint\StockTicker.dll
+C:\Users\emckenzie\source\repos\StockTicker\StockTicker\obj\Debug\net7.0\StockTicker.pdb
+C:\Users\emckenzie\source\repos\StockTicker\StockTicker\obj\Debug\net7.0\StockTicker.genruntimeconfig.cache
+C:\Users\emckenzie\source\repos\StockTicker\StockTicker\obj\Debug\net7.0\ref\StockTicker.dll
